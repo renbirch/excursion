@@ -14,3 +14,27 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+h2 {
+    font-weight: normal;
+    font-size: 42;
+}
+
+p {
+    font-size: 21px;
+    color: grey;
+}
+
+.body--image {
+
+}
+
+.body--icon {
+
+}
+
+.trademark {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
